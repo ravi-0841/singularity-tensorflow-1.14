@@ -54,6 +54,7 @@ From: tensorflow/tensorflow:1.12.0-gpu-py3
   pip install autograd
   pip install pomegranate
   pip install crepe
+  pip install wandb
 
 %runscript
   # executes with the singularity run command
