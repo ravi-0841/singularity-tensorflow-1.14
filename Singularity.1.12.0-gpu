@@ -55,7 +55,7 @@ From: tensorflow/tensorflow:1.12.0-gpu-py3
   pip install pomegranate
   pip install crepe
   pip install pycwt
-  pip install Unidecode
+  pip install unidecode
   
 %runscript
   # executes with the singularity run command
