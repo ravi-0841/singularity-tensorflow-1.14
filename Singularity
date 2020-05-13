@@ -56,6 +56,7 @@ From: tensorflow/tensorflow:1.12.0-devel-gpu-py3
   pip install crepe==0.0.10
   pip install pycwt
   pip install unidecode
+  pip install inflect==0.2.5
 
 %runscript
   # executes with the singularity run command
