@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: tensorflow/tensorflow:1.12.0-gpu-py3
+From: tensorflow/tensorflow:1.12.0-devel-gpu
 
 %environment
   # use bash as default shell
