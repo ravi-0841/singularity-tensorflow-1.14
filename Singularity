@@ -39,22 +39,21 @@ From: tensorflow/tensorflow:1.12.0-devel-gpu-py3
   pip install librosa==0.7.0
   pip install pep8==1.7.0
   pip install nose==1.3.7
-  pip install hyperopt
+  pip install hyperopt==0.2.3
   pip install hyperas
   pip install tqdm
   pip install pyAudioAnalysis
-  pip install hmmlearn
-  pip install simplejson
+  pip install hmmlearn==0.2.3
+  pip install simplejson==3.17.0
   pip install eyed3
   pip install pydub
-  pip install hyperas
-  pip install webrtcvad
+  pip install webrtcvad==2.0.10
   pip install soundfile
   pip install ffmpeg-python
   pip install pyworld
   pip install autograd
-  pip install pomegranate
-  pip install crepe
+  pip install pomegranate==0.12.0
+  pip install crepe==0.0.10
   pip install pycwt
   pip install unidecode
 
