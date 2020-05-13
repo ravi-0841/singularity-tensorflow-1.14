@@ -32,7 +32,7 @@ From: tensorflow/tensorflow:1.12.0-devel-gpu-py3
   apt-get install -y libmagic-dev
   apt-get install -y libsndfile1
   pip install opencv-contrib-python
-  pip install wrapt
+  pip install wrapt==1.12.0
   pip install pyyaml
   pip install joblib==0.11.0
   pip install lvmlite==0.31.0
