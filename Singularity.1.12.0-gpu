@@ -35,7 +35,7 @@ From: tensorflow/tensorflow:1.12.0-gpu-py3
   pip install wrapt
   pip install pyyaml
   pip install joblib==0.11.0
-  pip install librosa
+  pip install librosa==0.7.0
   pip install pep8==1.7.0
   pip install nose==1.3.7
   pip install hyperopt
